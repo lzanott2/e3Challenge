@@ -17,13 +17,19 @@ https://drive.google.com/file/d/1eEfeGmmeIpwFlYQQxdgamwuGemgWkElw/view?usp=shari
 Install Project Only
 ---------------------
 
-If you already have Drupal 8 installed, go to:
+If you already have Drupal 8 installed, you will need to download and install the "bootstrap" theme, that I had customized, and then download and install the "lori" theme.
 
-lori-drupal-8.4.3  >  themes  >  lori
+Go to:
 
-Zip the "lori" folder. Then go the "Appearances" page in Drupal 8. Install a new theme, then upload the "lori.zip" file. You need to then install and make the "lori" theme the default theme. Then go to:
+    lori-drupal-8.4.3  >  themes  >  bootstrap
 
-lori-drupal-8.4.3  >  sites  >  default  >  files
+Zip this "bootstrap" folder. Then go to:
+
+    lori-drupal-8.4.3  >  themes  >  lori
+
+And also zip the "lori" folder. Then go the "Appearances" page in Drupal 8 and select install a new theme. Upload and install the "bootstrap.zip" file and then do the same for the "lori.zip" file. "You need to make the "lori" theme the default theme.) Then go to:
+
+    lori-drupal-8.4.3  >  sites  >  default  >  files
 
 And paste those files into your "files" folder in Drupal 8.
 
