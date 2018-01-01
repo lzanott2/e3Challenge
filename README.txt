@@ -23,15 +23,15 @@ Go to:
 
     lori-drupal-8.4.3  >  themes  >  bootstrap
 
-Zip this "bootstrap" folder. Then go to:
+Download the "bootstrap" folder. Then go to:
 
     lori-drupal-8.4.3  >  themes  >  lori
 
-And also zip the "lori" folder. Then go the "Appearances" page in Drupal 8 and select install a new theme. Upload and install the "bootstrap.zip" file and then do the same for the "lori.zip" file. "You need to make the "lori" theme the default theme.) Then go to:
+And also download the "lori" folder. Then go the "Appearances" page in Drupal 8 and select install a new theme. Upload and install the "bootstrap.zip" file and then do the same for the "lori.zip" file. "You need to make the "lori" theme the default theme.) Then go to:
 
     lori-drupal-8.4.3  >  sites  >  default  >  files
 
-And paste those files into your "files" folder in Drupal 8.
+Download and paste those files into your "files" folder in Drupal 8.
 
 ********************* end Lori e3Challenge Drupal 8 instructions *********************
 
