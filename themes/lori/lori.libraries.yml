@@ -1,7 +1,7 @@
 global-styling:
   css:
     theme:
-      css/style.less: {}
+      less/style.less: {}
       css/style.css: {}
 
 fonts:
