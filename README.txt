@@ -9,9 +9,6 @@ Install Drupal 8 & Project
 
 To view this project on a local server, like MAMP, you need to first download this project. Next, unzip the tarball file and copy/paste it into your "htcdocs" folder. When you run MAMP  via this link, http://localhost:8888/MAMP/?language=English, click on "My Website" and then select the link for "lori-drupal-8.4.3". You will then be prompted to install Drupal 8. 
 
-The SQL database file and "files" folder are here:
-https://drive.google.com/file/d/1eEfeGmmeIpwFlYQQxdgamwuGemgWkElw/view?usp=sharing
-
 
 
 Install Project Only
@@ -31,7 +28,15 @@ And also zip the "lori" folder. Then go the "Appearances" page in Drupal 8 and s
 
     lori-drupal-8.4.3  >  sites  >  default  >  files
 
-Download and paste those files into your "files" folder in Drupal 8.
+Download and paste those files into your "files" folder in Drupal 8. Be sure to upload the database file "e3Challenge.sql".
+
+
+
+Database & Files
+---------------------
+The SQL database file and "files" folder are here:
+    https://drive.google.com/file/d/1eEfeGmmeIpwFlYQQxdgamwuGemgWkElw/view?usp=sharing
+    *The database file is called "e3Challenge.sql".
 
 ********************* end Lori e3Challenge Drupal 8 instructions *********************
 
