@@ -7,14 +7,14 @@
 Install Drupal 8 & Project
 ---------------------
 
-To view this project on a local server, like MAMP, you need to first download this project. Next, unzip the tarball file and copy/paste it into your "htcdocs" folder. When you run MAMP  via this link, http://localhost:8888/MAMP/?language=English, click on "My Website" and then select the link for "lori-drupal-8.4.3". You will then be prompted to install Drupal 8. 
+To view this project on a local server, like MAMP, you need to first download this project "e3Challenge" from Github. Next, unzip the tarball file and copy/paste it into your "htcdocs" folder. When you run MAMP  via this link, http://localhost:8888/MAMP/?language=English, click on "My Website" and then select the link for "lori-drupal-8.4.3". You will then be prompted to install Drupal 8. 
 
 
 
 Install Project Only
 ---------------------
 
-If you already have Drupal 8 installed, you will need to download this project. You will need to zip and install the "bootstrap" theme, that I had customized, and then zip and install the "lori" theme.
+If you already have Drupal 8 installed, you will need to download this project "e3Challenge" from Github. You will need to zip and install the "bootstrap" theme, that I had customized, and then zip and install the "lori" theme. You also need to zip and install the "fontawesome" module.
 
 Once you have downloaded this project, go to:
 
@@ -28,7 +28,11 @@ And also zip the "lori" folder. Then go the "Appearances" page in Drupal 8 and s
 
     lori-drupal-8.4.3  >  sites  >  default  >  files
 
-Download and paste those files into your "files" folder in Drupal 8. Be sure to upload the database file "e3Challenge.sql".
+Download and paste those files into your "files" folder in Drupal 8. Next, zip and install the module "fontawesome":
+
+    lori-drupal-8.4.3  >  modules  >  fontawesome.
+    
+Next, be sure to upload the database file "e3Challenge.sql".
 
 
 
