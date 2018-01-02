@@ -4,6 +4,11 @@
 
 
 
+An example of the finished work (Desktop and Mobile) is here, in this project:  
+e3Challenge/Example_Screenshot.png
+
+
+
 Install Drupal 8 & Project
 ---------------------
 
@@ -41,6 +46,8 @@ Database & Files
 The SQL database file and "files" folder are here:
     https://drive.google.com/file/d/1eEfeGmmeIpwFlYQQxdgamwuGemgWkElw/view?usp=sharing
     *The database file is called "e3Challenge.sql".
+
+
 
 ********************* end Lori e3Challenge Drupal 8 instructions *********************
 
