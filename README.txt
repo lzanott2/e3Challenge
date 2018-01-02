@@ -28,7 +28,7 @@ And also zip the "lori" folder. Then go the "Appearances" page in Drupal 8 and s
 
     lori-drupal-8.4.3  >  sites  >  default  >  files
 
-Download and paste those files into your "files" folder in Drupal 8. Next, zip and install the module "fontawesome":
+Download and paste those files into your "files" folder in Drupal 8. Next, zip and install the module "fontawesome" and enable it:
 
     lori-drupal-8.4.3  >  modules  >  fontawesome.
     
